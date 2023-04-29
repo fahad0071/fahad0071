@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ![](image/LinkedIn%20Cover%201584x396%20px.jpeg)
 
 <h1 align="center">Hi 👋, I'm Fahad Zahid</h1>
-<h3 align="center">A passionate Blockchain developer and AI enthusiast</h3>
+<h3 align="center">A passionate Data Scientist and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad0071&label=Profile%20views&color=0e75b6&style=flat" alt="fahad0071" /> </p>
 
