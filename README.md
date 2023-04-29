@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in AI, deep learning and Blockchain app development
 
-- 🔭 I’m currently working on **decentralized exchange**
+- 🔭 I’m currently working on **data analytics projects**
 
-- 🌱 I’m currently learning **blockchain app development and React js**
+- 🌱 I’m currently learning **OpenCv and deep learning frameworks**
 
 - 💬 Ask me about **C/C++, solidity, python, machine learning, React**
 
