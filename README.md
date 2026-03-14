@@ -3,7 +3,7 @@
 fahad0071/fahad0071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](image/LinkedIn%20Cover%201584x396%20px.jpeg)
+![](image/cover%20px.jpeg)
 
 <h1 align="center">Hi 👋, I'm Fahad Zahid</h1>
 <h3 align="center">A passionate Data Scientist and AI Engineer</h3>
