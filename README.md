@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - I’m currently working on **Agentic AI projects**
 
-- 🌱 I’m learning **Governance and Security of LLM Applications**
+- I’m learning **Governance and Security of LLM Applications**
 
 - Ask me about **Machine Learning Algorithms, Generative AI apps to Production, Embeddings, and Cloud Deployment**
 
