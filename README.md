@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad0071&label=Profile%20views&color=0e75b6&style=flat" alt="fahad0071" /> </p>
 
-- 👀 I’m interested in the Tech Industry shift powered by Generative AI
+- I’m interested in the Tech Industry shift powered by Generative AI
 
-- 🔭 I’m currently working on **Agentic AI projects**
+- I’m currently working on **Agentic AI projects**
 
-- 🌱 I’m currently learning **Governance and Security of LLM Applications**
+- 🌱 I’m learning **Governance and Security of LLM Applications**
 
-- 💬 Ask me about **Machine Learning Algorithms, Generative AI apps to Production, Embeddings, and Cloud Deployment**
+- Ask me about **Machine Learning Algorithms, Generative AI apps to Production, Embeddings, and Cloud Deployment**
 
-- 📫 How to reach me **fahds.zahid@gmail.com or fahad.s.zahid@student.jyu.fi**
+- How to reach me **fahds.zahid@gmail.com or fahad.s.zahid@student.jyu.fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
