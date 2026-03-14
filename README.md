@@ -3,9 +3,9 @@
 fahad0071/fahad0071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](image/cover%20px.jpeg)
+![](image/cover%20px.jpg)
 
-<h1 align="center">Hi 👋, I'm Fahad Zahid</h1>
+<h1 align="center">Hi! I'm Fahad Zahid</h1>
 <h3 align="center">A passionate Data Scientist and AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad0071&label=Profile%20views&color=0e75b6&style=flat" alt="fahad0071" /> </p>
